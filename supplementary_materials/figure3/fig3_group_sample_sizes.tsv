@@ -1,0 +1,13 @@
+substrate	carbon_class	feasible_pathways	le20_pathways	feasible_products
+co2	C2	4176	407	6
+co2	C3	4872	598	7
+co2	C4	6264	296	9
+formaldehyde	C2	305	48	5
+formaldehyde	C3	235	42	5
+formaldehyde	C4	538	40	8
+formate	C2	315	10	5
+formate	C3	315	27	5
+formate	C4	504	9	8
+methanol	C2	315	72	5
+methanol	C3	315	213	5
+methanol	C4	504	85	8

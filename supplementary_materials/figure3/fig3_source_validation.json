@@ -1,0 +1,78 @@
+{
+  "sample_mode": false,
+  "feasible_c2_c3_c4_pathways": 18658,
+  "le20_c2_c3_c4_pathways": 1847,
+  "pathway_reaction_records": 50665,
+  "le20_pathway_reaction_records": 4202,
+  "single_reaction_pathways": 764,
+  "assimilation_reactions": 39,
+  "reaction_carbon_summary_rows": 117,
+  "observed_reaction_numbers": {
+    "co2": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "formaldehyde": [
+      1,
+      2,
+      3,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "formate": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      8,
+      10
+    ],
+    "methanol": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ]
+  },
+  "checks": {
+    "route_ids_unique": true,
+    "all_steps_positive_integers": true,
+    "all_occurrence_percent_in_range": true,
+    "mapping_codes_unique_within_substrate": true,
+    "all_observed_reactions_mapped": true,
+    "full_expected_counts_match": true,
+    "full_active_sets_match": true
+  },
+  "expected_full_counts": {
+    "feasible_c2_c3_c4_pathways": 18658,
+    "le20_c2_c3_c4_pathways": 1847,
+    "pathway_reaction_records": 50665,
+    "le20_pathway_reaction_records": 4202,
+    "single_reaction_pathways": 764,
+    "assimilation_reactions": 39,
+    "reaction_carbon_summary_rows": 117
+  },
+  "passed": true
+}

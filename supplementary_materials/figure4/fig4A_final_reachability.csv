@@ -1,0 +1,101 @@
+substrate,substrate_label,product,product_label,normalized_target_carbon_atoms,product_class,class_order,product_order,retained_pathways,reachable
+co2,CO₂,ACETYL__45__COA_c,Acetyl-CoA,2,Central metabolic hubs,0,1,41,True
+formaldehyde,Formaldehyde,ACETYL__45__COA_c,Acetyl-CoA,2,Central metabolic hubs,0,1,9,True
+formate,Formate,ACETYL__45__COA_c,Acetyl-CoA,2,Central metabolic hubs,0,1,3,True
+methanol,Methanol,ACETYL__45__COA_c,Acetyl-CoA,2,Central metabolic hubs,0,1,10,True
+co2,CO₂,PYRUVATE_c,Pyruvate,3,Central metabolic hubs,0,4,55,True
+formaldehyde,Formaldehyde,PYRUVATE_c,Pyruvate,3,Central metabolic hubs,0,4,4,True
+formate,Formate,PYRUVATE_c,Pyruvate,3,Central metabolic hubs,0,4,2,True
+methanol,Methanol,PYRUVATE_c,Pyruvate,3,Central metabolic hubs,0,4,12,True
+co2,CO₂,G3P_c,3-PG,3,Central metabolic hubs,0,5,21,True
+formaldehyde,Formaldehyde,G3P_c,3-PG,3,Central metabolic hubs,0,5,15,True
+formate,Formate,G3P_c,3-PG,3,Central metabolic hubs,0,5,3,True
+methanol,Methanol,G3P_c,3-PG,3,Central metabolic hubs,0,5,7,True
+co2,CO₂,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,3,Central metabolic hubs,0,11,20,True
+formaldehyde,Formaldehyde,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,3,Central metabolic hubs,0,11,4,True
+formate,Formate,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,3,Central metabolic hubs,0,11,3,True
+methanol,Methanol,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,3,Central metabolic hubs,0,11,7,True
+co2,CO₂,GLYOX_c,Glyoxylate,2,TCA/glyoxylate intermediates,1,2,26,True
+formaldehyde,Formaldehyde,GLYOX_c,Glyoxylate,2,TCA/glyoxylate intermediates,1,2,16,True
+formate,Formate,GLYOX_c,Glyoxylate,2,TCA/glyoxylate intermediates,1,2,0,False
+methanol,Methanol,GLYOX_c,Glyoxylate,2,TCA/glyoxylate intermediates,1,2,6,True
+co2,CO₂,OXALACETIC_ACID_c,OAA,4,TCA/glyoxylate intermediates,1,7,13,True
+formaldehyde,Formaldehyde,OXALACETIC_ACID_c,OAA,4,TCA/glyoxylate intermediates,1,7,3,True
+formate,Formate,OXALACETIC_ACID_c,OAA,4,TCA/glyoxylate intermediates,1,7,0,False
+methanol,Methanol,OXALACETIC_ACID_c,OAA,4,TCA/glyoxylate intermediates,1,7,0,False
+co2,CO₂,MAL_c,L-Malate,4,TCA/glyoxylate intermediates,1,8,12,True
+formaldehyde,Formaldehyde,MAL_c,L-Malate,4,TCA/glyoxylate intermediates,1,8,3,True
+formate,Formate,MAL_c,L-Malate,4,TCA/glyoxylate intermediates,1,8,0,False
+methanol,Methanol,MAL_c,L-Malate,4,TCA/glyoxylate intermediates,1,8,0,False
+co2,CO₂,SUC_c,Succinate,4,TCA/glyoxylate intermediates,1,9,18,True
+formaldehyde,Formaldehyde,SUC_c,Succinate,4,TCA/glyoxylate intermediates,1,9,3,True
+formate,Formate,SUC_c,Succinate,4,TCA/glyoxylate intermediates,1,9,0,False
+methanol,Methanol,SUC_c,Succinate,4,TCA/glyoxylate intermediates,1,9,3,True
+co2,CO₂,_2__45__KETOGLUTARATE_c,2-OG,5,TCA/glyoxylate intermediates,1,10,0,False
+formaldehyde,Formaldehyde,_2__45__KETOGLUTARATE_c,2-OG,5,TCA/glyoxylate intermediates,1,10,2,True
+formate,Formate,_2__45__KETOGLUTARATE_c,2-OG,5,TCA/glyoxylate intermediates,1,10,0,False
+methanol,Methanol,_2__45__KETOGLUTARATE_c,2-OG,5,TCA/glyoxylate intermediates,1,10,0,False
+co2,CO₂,GAP_c,GAP,3,Sugar-phosphate precursors,2,6,9,True
+formaldehyde,Formaldehyde,GAP_c,GAP,3,Sugar-phosphate precursors,2,6,15,True
+formate,Formate,GAP_c,GAP,3,Sugar-phosphate precursors,2,6,2,True
+methanol,Methanol,GAP_c,GAP,3,Sugar-phosphate precursors,2,6,7,True
+co2,CO₂,ERYTHROSE__45__4P_c,E4P,4,Sugar-phosphate precursors,2,12,6,True
+formaldehyde,Formaldehyde,ERYTHROSE__45__4P_c,E4P,4,Sugar-phosphate precursors,2,12,15,True
+formate,Formate,ERYTHROSE__45__4P_c,E4P,4,Sugar-phosphate precursors,2,12,3,True
+methanol,Methanol,ERYTHROSE__45__4P_c,E4P,4,Sugar-phosphate precursors,2,12,6,True
+co2,CO₂,RIBOSE__45__5P_c,R5P,5,Sugar-phosphate precursors,2,13,5,True
+formaldehyde,Formaldehyde,RIBOSE__45__5P_c,R5P,5,Sugar-phosphate precursors,2,13,4,True
+formate,Formate,RIBOSE__45__5P_c,R5P,5,Sugar-phosphate precursors,2,13,3,True
+methanol,Methanol,RIBOSE__45__5P_c,R5P,5,Sugar-phosphate precursors,2,13,7,True
+co2,CO₂,OXALATE_c,Oxalate,2,Organic/hydroxy-acid products,3,3,16,True
+formaldehyde,Formaldehyde,OXALATE_c,Oxalate,2,Organic/hydroxy-acid products,3,3,3,True
+formate,Formate,OXALATE_c,Oxalate,2,Organic/hydroxy-acid products,3,3,0,False
+methanol,Methanol,OXALATE_c,Oxalate,2,Organic/hydroxy-acid products,3,3,0,False
+co2,CO₂,CPD__45__335_c,(R)-3-HB,4,Organic/hydroxy-acid products,3,16,18,True
+formaldehyde,Formaldehyde,CPD__45__335_c,(R)-3-HB,4,Organic/hydroxy-acid products,3,16,4,True
+formate,Formate,CPD__45__335_c,(R)-3-HB,4,Organic/hydroxy-acid products,3,16,0,False
+methanol,Methanol,CPD__45__335_c,(R)-3-HB,4,Organic/hydroxy-acid products,3,16,11,True
+co2,CO₂,L__45__LACTATE_c,L-Lactate,3,Organic/hydroxy-acid products,3,17,41,True
+formaldehyde,Formaldehyde,L__45__LACTATE_c,L-Lactate,3,Organic/hydroxy-acid products,3,17,4,True
+formate,Formate,L__45__LACTATE_c,L-Lactate,3,Organic/hydroxy-acid products,3,17,2,True
+methanol,Methanol,L__45__LACTATE_c,L-Lactate,3,Organic/hydroxy-acid products,3,17,10,True
+co2,CO₂,GLYCOLLATE_c,Glycolate,2,Organic/hydroxy-acid products,3,23,26,True
+formaldehyde,Formaldehyde,GLYCOLLATE_c,Glycolate,2,Organic/hydroxy-acid products,3,23,13,True
+formate,Formate,GLYCOLLATE_c,Glycolate,2,Organic/hydroxy-acid products,3,23,0,False
+methanol,Methanol,GLYCOLLATE_c,Glycolate,2,Organic/hydroxy-acid products,3,23,2,True
+co2,CO₂,ETOH_c,Ethanol,2,Reduced/platform chemicals,4,14,29,True
+formaldehyde,Formaldehyde,ETOH_c,Ethanol,2,Reduced/platform chemicals,4,14,4,True
+formate,Formate,ETOH_c,Ethanol,2,Reduced/platform chemicals,4,14,2,True
+methanol,Methanol,ETOH_c,Ethanol,2,Reduced/platform chemicals,4,14,7,True
+co2,CO₂,BUTANOL_c,1-Butanol,4,Reduced/platform chemicals,4,15,11,True
+formaldehyde,Formaldehyde,BUTANOL_c,1-Butanol,4,Reduced/platform chemicals,4,15,4,True
+formate,Formate,BUTANOL_c,1-Butanol,4,Reduced/platform chemicals,4,15,0,False
+methanol,Methanol,BUTANOL_c,1-Butanol,4,Reduced/platform chemicals,4,15,7,True
+co2,CO₂,ACETOIN_c,Acetoin,4,Reduced/platform chemicals,4,19,34,True
+formaldehyde,Formaldehyde,ACETOIN_c,Acetoin,4,Reduced/platform chemicals,4,19,4,True
+formate,Formate,ACETOIN_c,Acetoin,4,Reduced/platform chemicals,4,19,1,True
+methanol,Methanol,ACETOIN_c,Acetoin,4,Reduced/platform chemicals,4,19,9,True
+co2,CO₂,CPD__45__12004_c,"meso-2,3-BDO",4,Reduced/platform chemicals,4,20,20,True
+formaldehyde,Formaldehyde,CPD__45__12004_c,"meso-2,3-BDO",4,Reduced/platform chemicals,4,20,4,True
+formate,Formate,CPD__45__12004_c,"meso-2,3-BDO",4,Reduced/platform chemicals,4,20,0,False
+methanol,Methanol,CPD__45__12004_c,"meso-2,3-BDO",4,Reduced/platform chemicals,4,20,8,True
+co2,CO₂,L__45__ALPHA__45__ALANINE_c,L-Alanine,3,Biosynthetic building blocks,5,18,4,True
+formaldehyde,Formaldehyde,L__45__ALPHA__45__ALANINE_c,L-Alanine,3,Biosynthetic building blocks,5,18,0,False
+formate,Formate,L__45__ALPHA__45__ALANINE_c,L-Alanine,3,Biosynthetic building blocks,5,18,0,False
+methanol,Methanol,L__45__ALPHA__45__ALANINE_c,L-Alanine,3,Biosynthetic building blocks,5,18,0,False
+co2,CO₂,GLY_c,Glycine,2,Biosynthetic building blocks,5,21,16,True
+formaldehyde,Formaldehyde,GLY_c,Glycine,2,Biosynthetic building blocks,5,21,0,False
+formate,Formate,GLY_c,Glycine,2,Biosynthetic building blocks,5,21,0,False
+methanol,Methanol,GLY_c,Glycine,2,Biosynthetic building blocks,5,21,0,False
+co2,CO₂,SER_c,L-Serine,3,Biosynthetic building blocks,5,22,2,True
+formaldehyde,Formaldehyde,SER_c,L-Serine,3,Biosynthetic building blocks,5,22,0,False
+formate,Formate,SER_c,L-Serine,3,Biosynthetic building blocks,5,22,0,False
+methanol,Methanol,SER_c,L-Serine,3,Biosynthetic building blocks,5,22,0,False
+co2,CO₂,L__45__ASPARTATE_c,L-Aspartate,4,Biosynthetic building blocks,5,24,5,True
+formaldehyde,Formaldehyde,L__45__ASPARTATE_c,L-Aspartate,4,Biosynthetic building blocks,5,24,0,False
+formate,Formate,L__45__ASPARTATE_c,L-Aspartate,4,Biosynthetic building blocks,5,24,0,False
+methanol,Methanol,L__45__ASPARTATE_c,L-Aspartate,4,Biosynthetic building blocks,5,24,0,False
+co2,CO₂,SHIKIMATE_c,Shikimate,7,Biosynthetic building blocks,5,25,1,True
+formaldehyde,Formaldehyde,SHIKIMATE_c,Shikimate,7,Biosynthetic building blocks,5,25,2,True
+formate,Formate,SHIKIMATE_c,Shikimate,7,Biosynthetic building blocks,5,25,0,False
+methanol,Methanol,SHIKIMATE_c,Shikimate,7,Biosynthetic building blocks,5,25,7,True

@@ -1,0 +1,7 @@
+product_class,analyzed_products,reachable_pairs,possible_pairs,pair_coverage_fraction
+Central metabolic hubs,4,16,16,1.0
+TCA/glyoxylate intermediates,5,11,20,0.55
+Sugar-phosphate precursors,3,12,12,1.0
+Organic/hydroxy-acid products,4,12,16,0.75
+Reduced/platform chemicals,4,14,16,0.875
+Biosynthetic building blocks,5,7,20,0.35

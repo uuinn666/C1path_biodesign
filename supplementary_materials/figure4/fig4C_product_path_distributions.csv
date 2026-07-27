@@ -1,0 +1,735 @@
+route_id,product,product_label,product_class,class_order,product_order,substrate,unified_step_count,mdf_kJ_per_mol
+041643b3a1173c34,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,17,6.972654823345915
+124b011f6691c916,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,17,10.10787610310832
+1dcf83678061197a,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,8,29.092243793287658
+1eb6b8c122d2f1d9,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,14,15.600290107455477
+2041ebcb60e4ac54,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,19,10.157565668579153
+21e352aad4086ec7,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,11,17.49489542798766
+2f99739b06d2be3d,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,18,7.186082095567226
+38b113ec4ab8a976,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,16,9.57878877704011
+39fb3b155277c0fd,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,20,8.307724614816733
+3ddb442024be4fb0,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,16,10.609543667364402
+409a1018d3208d32,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,17,9.611848997676685
+42026ed342a7088e,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,18,7.186083108520868
+45720349b91b30f6,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,14,9.925960161043696
+4a9eb82d664ae7ae,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,13,13.565492473394889
+54fadb6f1f3a8d46,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,20,7.614101102210377
+63e7346fd07c535a,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,20,7.55406176942511
+6622aa2f052d72ce,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,18,10.13307336839529
+67876312f4c7e90b,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,15,8.816642265740835
+728767fd3e4be1c9,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,12,17.54999128906728
+74b922425357441e,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,7,24.03160391113983
+7d61a6815ea7f98a,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,20,16.131293380482255
+86bbde4bc7d75b02,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,18,7.032196443975583
+8ec8ebdef5836bf0,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,19,9.312985476282137
+92ec65cb088af98b,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,19,10.79423410551947
+9c9c3643897d1f1b,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,19,8.277102685829979
+9dd8961570bbdd68,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,20,5.869793864854997
+a44a70f806528bf4,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,20,10.181409149790438
+a4f4e0feca227571,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,13,36.542410883005296
+a6dcd7b6c7972262,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,12,30.84055523260137
+a7b54f54a9c7ee07,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,18,10.13307336859744
+a866cd82adb1cb1c,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,9,23.352676646927705
+b016330f5c2a7293,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,14,8.588734887317532
+b2984fc8f8692608,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,11,17.023854674481406
+bd5f9a96089762dd,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,17,6.972656658969407
+c06b1a59530360ae,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,8,23.21770590594595
+c69c068bab8d5916,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,12,14.849271342342124
+c74b8cfef317d6c2,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,13,17.860386165812983
+cfdb3bb9078db575,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,16,3.219094893435052
+d45424543cb2e694,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,13,9.89300124328128
+de16b81a97bfe0b5,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,13,15.212855954443912
+ebcd88dc85be46c7,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,co2,17,7.33335425996391
+09be8ab44a8e3e7b,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,formaldehyde,9,10.487922348319492
+12bd7468d71fafea,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,formaldehyde,20,10.433979150435183
+359bdbdd8fefe21e,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,formaldehyde,20,10.433979141620483
+3fb0ffc8c24e5b34,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,formaldehyde,20,10.433979150435183
+5b8945d558647d45,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,formaldehyde,9,13.144209246673343
+5eeca5eefbcae851,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,formaldehyde,20,10.433978654119228
+d08b01ea2f9aee3d,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,formaldehyde,8,8.670964691593426
+d63ff41580649dbb,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,formaldehyde,20,10.433979150435334
+ff33da69f6ebd544,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,formaldehyde,8,9.356606530500908
+27d1be7222e07163,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,formate,20,9.578732611329247
+3c83345a7213d4a5,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,formate,19,9.57873261113847
+b09415bf13bfa895,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,formate,17,10.107876103443957
+1eedcafba97a2428,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,methanol,15,4.059142777974968
+3264209a672906f4,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,methanol,16,4.059142857954215
+382a8010b76fe443,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,methanol,11,13.364945030692706
+41ec73f4baa1b095,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,methanol,12,13.46729786926959
+6f46a152ab370bfc,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,methanol,10,13.257526384831175
+816acf856bc60719,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,methanol,10,13.25752640508054
+8ddc22781fca7056,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,methanol,11,13.364945025117423
+991fa971e4ad8086,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,methanol,16,4.254090353083603
+d755e5c1fb83cba1,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,methanol,11,13.36494502739878
+e34570de418da801,ACETYL__45__COA_c,Acetyl-CoA,Central metabolic hubs,0,1,methanol,10,13.257526405167903
+04efaa21720d4152,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,14,13.590979965099892
+0c460e5700bda4bc,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,18,15.39760394856929
+0c6d0d96e4c8701b,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,18,8.086808947259925
+0d0f48587aad0b21,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,20,7.245856388440306
+1113e1fdc44b6c4e,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,18,9.643930329333111
+1236a5bc225aff26,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,17,10.645569754855718
+151257b14c9f4584,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,20,5.19665122879849
+161628ff55d26fe7,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,20,10.714677349675192
+1800bfc3529b5112,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,18,6.715099667185387
+1b0cbd5a480dc950,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,14,19.548758479414875
+234901bfc4b6c6d4,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,19,7.0894792760763305
+254815a84605eebc,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,14,15.138268557204269
+28e4771896d6f782,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,20,8.194937165343914
+29372398586a609d,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,20,6.664686569120135
+3277bfbb962bd15a,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,19,9.675111999001285
+3918c2577909b214,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,8,22.137177425132776
+471b30cc75f44fc9,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,17,9.57878996648025
+4d7114d94cb6da39,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,12,17.018223621643934
+5a56c899c8bf825d,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,17,10.107876100764718
+638ab8c6a27f6212,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,15,8.674201744297745
+677f00a4b6f77a5d,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,20,10.157565665586477
+678e2783f91011fd,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,17,2.8205510692732965
+6841846e5c2dc135,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,17,16.739134165556955
+7500b21326ff1bc1,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,9,23.855692143056807
+7ae4ac10e752a287,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,17,10.107876101547356
+7bbcdb7d8e20cdb3,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,19,13.274416451857272
+7e5513fbfa5aad80,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,18,5.501100107805552
+828c09af6bf6eea7,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,14,9.925960194327224
+86286f1b85c31e58,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,19,5.53420235879924
+91f5887f8cdb3fce,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,20,7.144730676828629
+931d09ca721a198d,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,11,20.52134540205284
+988de0bd93dc750d,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,19,12.260830205559303
+9ac36898667ba8c0,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,19,8.43615693595572
+a1c4679604957aa2,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,17,12.229431383172868
+a4cb124e300d04d7,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,19,7.780265370306622
+a5f18796a71fbd79,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,20,7.554061763794984
+ab57e115be618e1b,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,19,10.157565668171223
+aee3aa485df6b291,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,19,9.699530807776158
+af2232499bbbf985,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,18,7.388558777380997
+b6af7cf9b6fa3060,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,19,11.340193626674944
+b7106d5ab3293208,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,18,11.409891688754117
+baea935a15f3c002,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,12,22.99442373384096
+bc55765b4512fcdf,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,19,7.089479300181405
+bcf38c9d41318f0e,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,13,17.371462825939272
+cbd7d9ac2f4dffdd,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,20,7.24585638446004
+d03bc835fe146c28,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,18,7.032196601956064
+d1913c1c5cf87c98,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,13,16.409891379861204
+d9b2e107adbaacf1,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,17,9.611849011068983
+da8012446ea9bb7e,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,20,9.705468621288002
+dba4336499b2f0f6,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,18,7.032198328093594
+e43c38d90e14ddbe,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,20,6.778635961160552
+e4c41ca4fa6fc90e,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,16,9.937753303326948
+ea2ca80a0ad4a568,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,19,10.157562521200484
+f9a3c2a163985a47,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,18,9.611850102165748
+fefcc4a6cd6d0d51,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,co2,13,19.186242170913363
+2ee305fb0e91c450,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,formaldehyde,6,11.869058295098911
+5d0968e7581c7147,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,formaldehyde,11,9.567686850729531
+cb9b9d531c3bb551,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,formaldehyde,11,8.866754668091346
+feeb197b25a3b126,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,formaldehyde,12,10.71079416534734
+65270d70eebb10ee,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,formate,19,9.59126773526246
+f111262b57ef0976,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,formate,17,10.107876103443957
+22999a7333532794,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,methanol,11,12.072560258886591
+2b67111a14e89e11,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,methanol,11,12.072560258066456
+3404ef88d5e9bc61,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,methanol,19,11.202550155374484
+353d30877526b626,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,methanol,11,12.072560258982003
+411e876213c26469,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,methanol,18,12.195109667122942
+7cda5a62b95d0ea4,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,methanol,8,11.958392767606796
+9b66e6adc504fb61,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,methanol,18,12.195109671655592
+a02839a9ba0e5b9b,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,methanol,13,12.139809322627846
+e2a7f6e3a826cdea,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,methanol,8,11.958392759141512
+edaea48df7fac309,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,methanol,8,11.958392775603787
+eef50d2742c6937f,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,methanol,18,12.19510966915949
+f8d538a86debef8b,PYRUVATE_c,Pyruvate,Central metabolic hubs,0,4,methanol,13,3.4303594424983888
+1656cef941c3ffe6,G3P_c,3-PG,Central metabolic hubs,0,5,co2,20,9.70546868207544
+31e621e4ced9a2fc,G3P_c,3-PG,Central metabolic hubs,0,5,co2,20,9.675113039289316
+3a9bfb264c7bd213,G3P_c,3-PG,Central metabolic hubs,0,5,co2,12,12.816430319911442
+41efa0f9d3bd1357,G3P_c,3-PG,Central metabolic hubs,0,5,co2,17,10.107876100764718
+49d0c3d8886a8bca,G3P_c,3-PG,Central metabolic hubs,0,5,co2,19,10.157565668338524
+51df1696d1633aa5,G3P_c,3-PG,Central metabolic hubs,0,5,co2,17,13.017911752421124
+5a120252524e7f70,G3P_c,3-PG,Central metabolic hubs,0,5,co2,13,14.236413852107953
+5c582453185e32dd,G3P_c,3-PG,Central metabolic hubs,0,5,co2,17,10.017462205315
+5ca61760ae43a50e,G3P_c,3-PG,Central metabolic hubs,0,5,co2,20,10.157565665830443
+5e618521c6e9ff06,G3P_c,3-PG,Central metabolic hubs,0,5,co2,17,10.01746223564552
+67122d03a7acf60a,G3P_c,3-PG,Central metabolic hubs,0,5,co2,17,12.678939842089534
+6a0e9d5ed8dac4f5,G3P_c,3-PG,Central metabolic hubs,0,5,co2,17,12.38422544518104
+9864b9d7e3241533,G3P_c,3-PG,Central metabolic hubs,0,5,co2,16,12.995648177479133
+9dd1f995358a4bca,G3P_c,3-PG,Central metabolic hubs,0,5,co2,15,12.940879996352864
+a77077fa90f5bace,G3P_c,3-PG,Central metabolic hubs,0,5,co2,20,10.747911133846534
+aa863b195cbb66e8,G3P_c,3-PG,Central metabolic hubs,0,5,co2,19,10.157565667610417
+ae15e4a75ae27214,G3P_c,3-PG,Central metabolic hubs,0,5,co2,17,10.107876102123404
+ae23197219883c69,G3P_c,3-PG,Central metabolic hubs,0,5,co2,17,16.93389623003761
+b3c79eb7786b949d,G3P_c,3-PG,Central metabolic hubs,0,5,co2,20,9.70546868998636
+e6fd88c4e031a051,G3P_c,3-PG,Central metabolic hubs,0,5,co2,16,16.62519776114083
+e8d22f1fdab5d6f0,G3P_c,3-PG,Central metabolic hubs,0,5,co2,20,2.5909141453485107
+0082cd995a3bae72,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,20,9.84950364415424
+02964059ffa5f5fe,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,20,9.849502891552646
+0ed4e55b1c717304,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,20,9.84950289154621
+0fa8a9d4a3bba66c,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,12,5.997557013185663
+1de62fea4ae2e0c3,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,12,7.033774815195417
+38ea1b7f1b8f4e61,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,20,9.8495036441543
+3cf1a23d7a7c47e2,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,20,9.849502890107336
+3eb0ed9260b0bcc4,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,20,9.805891364264886
+4c6a3df8b8ac290d,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,20,9.849502891552802
+6032a2c43b79d1d5,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,20,9.805891364265936
+6453b79217fd2de1,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,14,5.9094619931031165
+7ca37994736dde91,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,20,8.618855275081335
+828f8f17a71ebb98,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,20,9.849503644152758
+edf0464615874f3e,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,20,9.80589136426489
+f59aa414896c0bdf,G3P_c,3-PG,Central metabolic hubs,0,5,formaldehyde,6,19.191355067270248
+7f19ba8ae6aa2783,G3P_c,3-PG,Central metabolic hubs,0,5,formate,17,10.107876103443957
+846f3dcb4e24de60,G3P_c,3-PG,Central metabolic hubs,0,5,formate,20,9.591267740987004
+ed263f089ca4bd58,G3P_c,3-PG,Central metabolic hubs,0,5,formate,19,9.59126773526246
+0810c5554edb8059,G3P_c,3-PG,Central metabolic hubs,0,5,methanol,7,19.302271241225
+2f4c3505c01cd79a,G3P_c,3-PG,Central metabolic hubs,0,5,methanol,8,19.40504405188067
+7cbd5c92d076e728,G3P_c,3-PG,Central metabolic hubs,0,5,methanol,7,19.302271228563075
+84dcbeeb73799d98,G3P_c,3-PG,Central metabolic hubs,0,5,methanol,8,19.40504405000988
+94db1b991ab38bc8,G3P_c,3-PG,Central metabolic hubs,0,5,methanol,7,19.30227123938695
+edee34bd3c60bbe9,G3P_c,3-PG,Central metabolic hubs,0,5,methanol,9,19.501244936734903
+fadd4b8190e4eacc,G3P_c,3-PG,Central metabolic hubs,0,5,methanol,8,19.40504406042816
+2762152fb6fb3bec,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,19,5.534202348750156
+2dd72735854012e6,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,17,10.107876102123404
+4255959c9434e9fe,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,18,9.611850177277876
+47fd3360998ebdf6,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,19,10.157565667610417
+5d3292313c06b3f2,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,19,7.089479267547566
+693200109749c3db,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,20,9.70546867984202
+70aeff55f67bb2fd,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,19,7.441745941271289
+81a33532c4a168e3,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,19,9.643930427062378
+879daa5391ec0a38,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,19,10.157565668338524
+8e282f7a1024d984,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,17,10.107876103387868
+92269074ac27c790,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,20,10.157565665830443
+9655607ec7fe35fa,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,19,11.409891688489388
+9c0bcc4f8d2b8aff,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,20,7.144732353140847
+a816f1b05bc4ac59,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,15,12.20185743831819
+b43d8dbd856ed90d,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,20,5.582624660360077
+b47192a3882c9be3,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,14,17.421506480642996
+c3dab5c99420ad11,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,19,9.675113097831437
+daabbe1f0b06190d,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,20,9.705468621288002
+eb2b48dd905520ba,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,20,7.144732412794653
+fb5ea8691c5910a6,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,co2,18,10.680587848710422
+1c95220bfaa82fa0,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,formaldehyde,13,10.778499044463157
+479cd590f2784f23,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,formaldehyde,12,8.925661809164898
+6fb1eb4011eaea9e,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,formaldehyde,7,11.915427733184767
+f94b0621081f713b,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,formaldehyde,12,9.631194385570012
+7103feab5a51581f,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,formate,19,9.5912677332718
+8873d0fb50aadc71,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,formate,20,9.578732611329247
+cc9c2a76d5be0c56,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,formate,17,10.107876103326152
+1b86fb1afdb7a811,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,methanol,13,12.13980931817317
+2e886aec00ed6778,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,methanol,12,12.106909719583504
+593680a19b925b15,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,methanol,10,12.03654981542875
+6b41ab2a2ee3fa02,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,methanol,10,12.036549821161069
+b10cb792ff311403,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,methanol,19,12.317451034727144
+e8c7ccdfa7ccac8e,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,methanol,10,12.03654981858802
+f68c2a443c755b67,PHOSPHO__45__ENOL__45__PYRUVATE_c,PEP,Central metabolic hubs,0,11,methanol,12,12.106909719625705
+0817609b72de854c,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,15,10.572415919555064
+0a77d5cac2e25034,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,13,10.49441303080204
+1248ad8ea0603707,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,16,10.572416328027456
+2867d8af22087677,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,16,6.8711120947631965
+2a0c05732d08450f,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,5,33.7183234005243
+2ca0b083eec6ab05,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,14,7.2428520387486515
+2dd8d1ccfd96b152,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,11,8.328253693042534
+30a5435a7caafa09,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,5,31.73828930645984
+3352bf095d0e3260,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,17,6.913325274911581
+34a06948983c8c15,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,4,25.670566437094937
+662b4771dd391468,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,16,7.3843200780825855
+69523778f941f77d,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,13,3.381331692212276
+6ad1dea5b8f6f4fc,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,17,5.363595685176722
+721487efb1d4cb9c,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,14,10.534081236330282
+72f12cedb64c083e,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,12,11.145668367422957
+77b7727d4668c353,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,16,7.315169875434593
+7e950a928d4e7b4a,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,12,14.443867690042149
+824e247024fd1372,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,20,7.614101103688128
+b5f20761173390c5,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,15,11.41815028873401
+b7b0547f0957e905,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,6,28.929790151226
+cdea66d73e7b166d,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,10,23.84936205876393
+d3c5516dece3c5a9,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,15,7.315169257404641
+db0cb33ca22fd3b0,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,11,14.410399717628463
+db9a5ee9ec408803,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,13,3.3813316445190305
+db9d55b227d97629,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,11,23.735993790669927
+f0a31d81b2b9c099,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,co2,17,7.384320912257186
+0124e8cf79fc4486,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,18,12.140098333296704
+1ded1bd6bfb89954,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,18,12.14009740258214
+38955843b2ba3fc3,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,18,10.234281169036596
+46727505e9b24a98,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,10,10.565998862172885
+4f8d7a83eab0614d,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,18,12.140098332653126
+548538d93b63064b,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,9,8.739935275917935
+54e17c17fb8dd679,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,17,12.7179063872879
+59c9d5c81cd15288,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,17,12.71790638728809
+6fcb49a39953d49f,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,18,12.140098333297727
+6fd83a4d4a0645f2,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,18,12.14009833329669
+7934efa158a747cd,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,9,9.43096343946783
+7b4ca0e207725f89,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,17,12.717905143609036
+863ee4619a69aadd,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,17,12.717906378129594
+99391f2fc484878b,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,17,12.717906387288105
+9f78253c6d64113f,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,19,10.292559788383032
+e3f5a6a785a18c68,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,formaldehyde,16,16.306154315666866
+1973a8a9faa3a2ee,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,methanol,18,16.52230769548198
+33e0b033fb653276,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,methanol,19,16.62554686652792
+870e283978e5568f,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,methanol,19,16.62554689038163
+9f61a8614ce498c2,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,methanol,18,16.5223076863572
+ac2ef63600d58ae1,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,methanol,19,16.625546894989302
+e8ce4e0165e6751c,GLYOX_c,Glyoxylate,TCA/glyoxylate intermediates,1,2,methanol,18,16.522307692186434
+02bd6aded3bad272,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,19,11.409891689792438
+13f7f7a60745d0b8,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,7,19.790857805073188
+22059949dea1cc88,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,17,14.88904570980593
+30390699d1303301,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,19,6.059787850149666
+996582ef1cfcc77b,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,18,11.023419566715782
+9a377266bbeb85c3,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,8,23.21770590762059
+a2ed91964ce49b1e,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,17,14.638333147058296
+b9f6eb894c78294c,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,20,11.40989168865521
+bb38e0ae440003ac,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,8,23.782447273237903
+bcb8b914f9f93d9f,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,9,23.352676646927705
+ca6f6d9ccc1563f4,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,14,17.96866663168737
+e5e57b427d7b8857,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,20,5.64700622236985
+ed551fc80609149a,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,co2,20,7.740344371374919
+02bfe3a89c0c2856,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,formaldehyde,11,9.567684636792324
+5bea01832e95338c,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,formaldehyde,11,8.866752524000688
+8f5e0ed894b51b60,OXALACETIC_ACID_c,OAA,TCA/glyoxylate intermediates,1,7,formaldehyde,12,10.710791763416044
+05b61d0a21b91a09,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,co2,19,15.48546454835884
+06d11b2b902b2444,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,co2,19,11.409891689792438
+296813c46e805139,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,co2,9,23.99563108874757
+29ce90d52672187d,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,co2,19,9.695200162231416
+4151234600b9b98c,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,co2,16,12.348203218587075
+6caab36161e623a2,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,co2,20,8.714952924700514
+6fd651b0d2d75240,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,co2,14,17.968666672283252
+8e0766f14efedd37,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,co2,16,7.823667291680199
+a42074a5787291fd,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,co2,9,23.353237002523176
+b041f2d95b004ebe,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,co2,8,20.02337607097982
+e583f8842fe4d06c,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,co2,20,11.40989168979091
+e5e7e6b4ed7fea77,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,co2,8,23.21770590594595
+1c914cb5125beea1,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,formaldehyde,10,8.804999049215068
+2e673fc417ddb187,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,formaldehyde,10,9.501108390720184
+54c7adbde1ef5e18,MAL_c,L-Malate,TCA/glyoxylate intermediates,1,8,formaldehyde,11,10.640105593781309
+264fec39681a7fb8,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,14,15.29642305063316
+2f922b0d04469c3c,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,17,6.13587220092446
+3ff887008be05c04,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,20,5.647006212411042
+454db0f948040d08,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,10,19.91078914066883
+4a22a8edf5b7ff33,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,19,9.675112049316208
+56fdc1e92577af00,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,16,9.988058189040483
+5ada3227afca0910,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,14,14.529846475571066
+624d82ffc8a9dc38,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,11,23.77497278423376
+70e447aeb768f430,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,19,9.695200162231416
+9504e5a7213766a6,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,14,36.72332661048002
+96e2db7233aa81b6,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,18,7.641503189737644
+993da97a678f1396,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,17,10.017462169437982
+a8b8aeedd854df0d,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,20,9.705468618710348
+b2d980c15f565635,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,15,18.0720420340015
+bc5a2587ed053e6b,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,12,23.543575436114235
+c4e79ca9d347c175,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,11,20.490370348465927
+d2491d31023e7d64,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,18,14.671278975592314
+ebc573fe03b9e3fc,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,co2,18,11.670380882242863
+46b5478a660f8ac9,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,formaldehyde,14,10.84356746207774
+df795fd3e3c23b18,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,formaldehyde,13,9.69201926036206
+e325595e339c9293,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,formaldehyde,13,8.98208060712442
+0f60faadaae06332,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,methanol,16,13.837372829492892
+7a8909656f50b76b,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,methanol,16,13.83737283719904
+c97821344679741a,SUC_c,Succinate,TCA/glyoxylate intermediates,1,9,methanol,16,13.837372805713333
+35dda044c358c47a,_2__45__KETOGLUTARATE_c,2-OG,TCA/glyoxylate intermediates,1,10,formaldehyde,19,5.284868303260821
+62325862c76ba8c0,_2__45__KETOGLUTARATE_c,2-OG,TCA/glyoxylate intermediates,1,10,formaldehyde,19,3.359949003154572
+14b6ee977e5fbfa5,GAP_c,GAP,Sugar-phosphate precursors,2,6,co2,17,10.107876103137729
+1ba548fe558e785f,GAP_c,GAP,Sugar-phosphate precursors,2,6,co2,18,10.181409146788402
+2ccdace034dee342,GAP_c,GAP,Sugar-phosphate precursors,2,6,co2,20,10.15756566846048
+3efcf2376a633e9f,GAP_c,GAP,Sugar-phosphate precursors,2,6,co2,17,10.107876102437276
+7baec1a04c8cf16a,GAP_c,GAP,Sugar-phosphate precursors,2,6,co2,19,10.157565668338524
+ab8322630729b811,GAP_c,GAP,Sugar-phosphate precursors,2,6,co2,17,16.933896229269685
+db090287e0b05ec5,GAP_c,GAP,Sugar-phosphate precursors,2,6,co2,19,10.157565667610417
+ebe8af1d440e9221,GAP_c,GAP,Sugar-phosphate precursors,2,6,co2,13,14.23641385213129
+f250c59ebc705f56,GAP_c,GAP,Sugar-phosphate precursors,2,6,co2,18,10.181409148922576
+1279444449cb9437,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,20,6.5465774701257775
+2986dfe9bb79237b,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,10,6.943377421180518
+2d26e8aa2282a637,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,20,6.596304296931144
+2da250e0369f1da1,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,20,6.596303421334584
+322db60f8e998ab2,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,12,5.827990099979523
+3752a26d0fb7af28,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,20,5.4969202473318965
+522cfb4ded6866f9,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,20,6.596304296931245
+5dc225d8ed489450,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,20,6.54657747012577
+99bd386c0f3abf59,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,20,6.596304296931211
+b47703ca216d85dc,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,4,18.93444379662995
+b7824a6e7f01fa75,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,20,6.596303425648673
+d47354c1ff86314e,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,20,6.596303421333888
+e47762b0e636d18b,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,10,5.908216267019358
+f046adfd8a639552,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,20,6.596303421334585
+f9b56b8ab9e58768,GAP_c,GAP,Sugar-phosphate precursors,2,6,formaldehyde,20,6.546577470125879
+c8b33ca49f974fd2,GAP_c,GAP,Sugar-phosphate precursors,2,6,formate,19,9.59126773526246
+d7383e6cdd4d3ea0,GAP_c,GAP,Sugar-phosphate precursors,2,6,formate,17,10.107876102569138
+2568f0817b8216bb,GAP_c,GAP,Sugar-phosphate precursors,2,6,methanol,6,19.19135506291208
+25c128492ac3d1c6,GAP_c,GAP,Sugar-phosphate precursors,2,6,methanol,6,19.19135505379388
+365271ee93c18f7f,GAP_c,GAP,Sugar-phosphate precursors,2,6,methanol,6,19.1913550678737
+59b523d6713913cc,GAP_c,GAP,Sugar-phosphate precursors,2,6,methanol,5,19.06997533637921
+b3badc0cf59630b0,GAP_c,GAP,Sugar-phosphate precursors,2,6,methanol,5,19.069975313713226
+bf715a5fd9cf53f9,GAP_c,GAP,Sugar-phosphate precursors,2,6,methanol,5,19.069975333881708
+f60f9477be652b40,GAP_c,GAP,Sugar-phosphate precursors,2,6,methanol,7,19.30227122788585
+39f8713b9746787c,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,co2,18,10.133073368303734
+4e5702b2075178bc,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,co2,17,10.107876102287229
+7a253019b5f46747,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,co2,17,10.107876102574595
+af4134f19e2ea6f7,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,co2,13,14.236413852107953
+f17dcf0e1a19d564,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,co2,19,10.157565667610417
+f30f6f5813eefa86,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,co2,19,10.157565667967374
+0cbd062954c0ca34,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,18,6.54657660236256
+1c099e2695dcb949,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,18,6.546577469129785
+2167a5e6c2bd3593,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,10,6.7314096728626165
+3c08811c21e7533e,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,18,6.546577469134628
+41af5006390b64fd,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,18,6.546577470286721
+638222dbbf18ec68,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,19,6.596303446337203
+70834a9a0d84aca3,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,10,5.908216267019358
+70f277f8fa70076e,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,18,6.546577469134753
+9f4814a091e206e1,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,19,6.596304296935238
+a658a8dc3cc84904,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,19,6.5963042968669
+affb1768a7d71947,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,19,6.596304296935229
+d06d86a3690e742a,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,10,6.943377421180518
+d073d384761f9755,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,19,6.596304296935305
+d708678548837832,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,12,5.827990088567459
+e56909f339066013,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formaldehyde,19,5.496920246611919
+4e47fecea627e23a,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formate,20,9.578732610196846
+4f9cac2f104cf77f,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formate,18,10.133073366810768
+63a638c4e35e2f6b,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,formate,19,9.59126773526246
+170647d3cae6df5a,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,methanol,12,6.90155006892463
+43167f5e2587ce21,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,methanol,12,6.90155007242042
+6875e4c64eb8dd10,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,methanol,12,7.9830108108431075
+74734339b9ccc3c2,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,methanol,12,6.9015500650324535
+93f58542a27b462e,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,methanol,13,6.981106066295988
+bb902d6e5a070f24,ERYTHROSE__45__4P_c,E4P,Sugar-phosphate precursors,2,12,methanol,12,7.983010787026615
+0d5a5ed6034180da,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,co2,18,10.133073365377182
+29b311ebb1653eeb,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,co2,19,10.15756566784206
+332000847aaf9d64,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,co2,20,10.181409148961984
+48a7228ce269fa71,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,co2,18,10.133073368462767
+822cf38ba94bf696,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,co2,15,14.771725417270137
+04c4097a24bffc53,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,formaldehyde,13,5.869685986420538
+af35dd17f220757d,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,formaldehyde,10,6.214511758355677
+b20538608ca1fe72,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,formaldehyde,10,6.943377420693574
+e98297ed20311e66,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,formaldehyde,10,5.908216278504377
+064bd716c3c0f86d,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,formate,18,10.133073367274422
+2fcd092683af42f8,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,formate,20,9.610871897175372
+d5fad83d4b20179f,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,formate,20,9.578732610196846
+168257a278da1b99,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,methanol,12,6.350827025069843
+1cb5aef30e28cacb,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,methanol,12,6.350827027299663
+1d877332df3cc4b9,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,methanol,12,6.350827024122781
+476f40b05f5e8559,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,methanol,11,6.284278379026104
+9902c3b3ecde31af,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,methanol,13,6.414566715238673
+abf2b97cf65c1e10,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,methanol,11,6.284278384096992
+c51812c93fdcd81d,RIBOSE__45__5P_c,R5P,Sugar-phosphate precursors,2,13,methanol,11,6.2842783811946505
+0a89c9fa69eb649b,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,7,11.597071595614242
+12ed069914fde35a,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,14,7.47206534994501
+227018bd03500790,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,12,11.082528212459298
+3c403277a97cd4d2,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,6,10.140699873301669
+3c76c36e105aed89,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,8,15.93772103269885
+4ba38ce0d3a2e282,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,15,5.442251975068552
+519bda91c2d54707,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,11,10.588406365474707
+69828050a4f75a35,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,9,16.189843520070585
+6cfe72d6afca74da,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,20,6.704885838844861
+77c2d71143e5b045,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,13,11.409891689535463
+988e330cdf4eda82,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,12,11.409891689234692
+9d9f5748400c42e7,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,15,5.442251871289314
+e1aee6377de31cc4,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,13,7.390940631227167
+e9fa2b21c8cb6b00,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,13,11.409891689237984
+ebfa409fba5428d5,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,14,6.527538166864438
+f4865108e86e6f57,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,co2,18,7.14530400931908
+0d00dd425677d702,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,formaldehyde,11,8.86675465841314
+16eaed8dbe146f64,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,formaldehyde,11,9.5676868537651
+827c18cb42fda3fd,OXALATE_c,Oxalate,Organic/hydroxy-acid products,3,3,formaldehyde,12,10.71079416911276
+09a920dd48a07f47,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,19,11.818651601730146
+46be56fc4e2ffe34,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,20,10.18140914911744
+51f8ec118d855d7f,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,19,8.932669725775563
+5e07940e0a0512a4,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,20,7.144730688009675
+6413a1a3b9fe9d45,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,11,27.2273711039978
+68a385f95569dcb4,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,15,20.24031032013077
+73e8ecd0a32051d4,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,20,18.53266285532053
+782916dba10e1928,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,10,23.788837094425123
+8a5ee590e2acf26b,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,19,14.10592516590816
+a9c17fdfc04aaf3a,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,19,15.669421335885222
+b16f05fac91ec7c7,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,16,18.171099898541247
+ba656cb0647b93c2,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,15,17.704043831297398
+bb14ace4cf2acd76,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,12,21.49157777404596
+c6b1f43610595a20,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,14,17.65437811882291
+c8ba778e4d2858c2,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,19,6.2320546747665615
+d77ad2b2fd42f4e1,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,17,15.877840983015808
+ef986fdd54037955,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,20,7.144732341940024
+f1667ad0c448b6d0,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,co2,14,16.879228784496974
+614c557ff12a3af1,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,formaldehyde,12,10.710794161549122
+8bc440d44ff5efed,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,formaldehyde,12,13.46729786761601
+e54c9bfa5e990e44,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,formaldehyde,11,8.866754664826521
+e8a0400e21260e5d,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,formaldehyde,11,9.567686848372912
+0190e14866c6158b,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,methanol,14,12.598049660572316
+0d7a869e744d11f6,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,methanol,14,13.659292115095624
+183455551823ea12,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,methanol,19,4.804181015596286
+3961e2ca61dafaca,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,methanol,18,4.626100289468967
+5b29a1cad520d565,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,methanol,20,4.977544710982681
+81b591f7d4220eb5,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,methanol,13,13.565238765849289
+9d4d13791b8c28ac,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,methanol,13,13.56523877021998
+a18f55014e0fb7df,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,methanol,15,12.679152441514384
+b4e55bb7e661a593,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,methanol,14,12.598049630223484
+bebe2d9533a38443,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,methanol,19,4.8041811045926215
+d7015f4f6931e003,CPD__45__335_c,(R)-3-HB,Organic/hydroxy-acid products,3,16,methanol,13,12.513628745453492
+0321a977781b9d69,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,9,22.341693937748275
+0822e9e1559d05be,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,15,9.957597586891756
+09a8062d4d630ce3,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,13,23.13600538078901
+124971108304030d,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,20,2.577109758290707
+12a7b87a9d321b4b,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,20,11.07117892067894
+1373a11536e5f2d7,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,14,22.43997235084849
+2b4dcad177937f11,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,18,10.133073368212866
+2ccbd57f151b4647,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,19,15.470086034600442
+2fab65bb8aa8dbaa,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,20,7.144732341412226
+35a9d30d27cb30cc,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,20,10.066497888281104
+395e0c3d2c309310,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,19,6.767653861729993
+3ca81c197808f27c,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,18,12.25622786514427
+4690143010cefdf4,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,18,17.350013523928673
+5e3d204499104359,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,19,7.089479317274527
+69b56d900036c897,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,19,5.5513866064051385
+6eb51be311a931f3,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,18,2.859239737190056
+6ec000b97b3016cf,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,15,13.681538567111346
+74eb813d82efb76c,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,18,8.742837663073036
+83b7f6c4c5f6ac7d,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,13,17.11726377758488
+84a4a89d4736ba4b,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,10,24.018429741032755
+856e73fbbc5e1876,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,17,9.678133232804628
+91763b817c68f087,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,15,13.323611656906616
+95f53e3cfd02b20d,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,19,7.089477558643453
+98dc864d02e53c9c,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,19,11.409891687727676
+9ba6e075b3e6df50,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,20,9.75471004921769
+a758f8a08937cc5e,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,15,16.549886638048083
+b7ab70a11037c39f,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,16,8.745720147351895
+bbaad90a075c0375,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,12,20.651606415248995
+bc9bab5a94199ee1,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,19,7.216467125726471
+c6c101d8f51e2c7d,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,18,10.680587830100238
+c8453507561632f6,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,20,10.181309719932912
+cc2d08224153bd7d,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,18,9.611850103250696
+d69bd25b1eab158f,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,20,14.18746373738591
+d6a6ccddeae827df,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,19,7.441745949883993
+dd10be7e71a1c457,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,15,15.216975799864729
+e0351a111f53c0ca,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,20,7.144732348546261
+e729742343b3754a,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,20,2.5916128219745755
+ea58ea11999d9c95,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,20,10.181409149373357
+f33edcbc3d2e7929,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,15,13.125991965795857
+f65b1d35725bc1ab,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,18,10.133073366779456
+fa293d3a5d025bbc,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,co2,20,5.59996897862681
+35be65bdf865dee8,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,formaldehyde,13,12.139809322890592
+383f66764574e400,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,formaldehyde,12,9.03777670849372
+80b45cf3604a496c,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,formaldehyde,12,8.553349385080569
+8873b07eeeed0234,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,formaldehyde,13,9.37326785120329
+2dc65b1d9b08a221,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,formate,18,10.133073368677826
+68b455ced45f5e32,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,formate,19,9.57873261113847
+06f46def9938bfc2,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,methanol,20,11.283332995844765
+0d8c2e0b7c952f4e,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,methanol,14,12.171428881863587
+5f1c6f28f07b461d,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,methanol,12,12.106909719946414
+68793259fbf2fa3e,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,methanol,14,12.17142888183
+69e8a99a07669186,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,methanol,14,12.1714288777596
+856c867a9eee176f,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,methanol,12,12.106909719898642
+89666ba86babe207,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,methanol,14,12.171428879819054
+9fd95abd6fd987da,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,methanol,19,12.176892232472394
+c0362c99150b82d7,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,methanol,12,12.106909719566763
+d72f11b9b48cec75,L__45__LACTATE_c,L-Lactate,Organic/hydroxy-acid products,3,17,methanol,20,11.345950426007148
+0511647eddaa3a7a,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,18,7.450675565084148
+08e1c5c3a96ce191,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,16,10.572416344150806
+11fb2a0e0da25282,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,16,10.6095424235473
+19dcd17b6c310c68,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,12,8.407466880205495
+1ab6028119ba5b4b,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,12,14.486836657084565
+21f5ed83d1bf37d5,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,16,5.448917916119617
+2e1ca8968e5ef40a,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,11,24.12568725409266
+2e3920c487e7f4b6,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,15,10.57241598171003
+3243624a8d92681a,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,7,29.10346172794165
+409e7ad92f472554,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,5,26.05163791701052
+706ccd83df770188,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,6,33.9692343712562
+7fa789a8cba20216,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,15,7.315171280543316
+83239866c1c8afb2,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,12,9.080607287513237
+845687369de64d40,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,17,7.450674781026721
+86efea15692f5e8c,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,12,9.626812495170592
+99966b4690602370,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,6,31.98017702361908
+a22ad28d34ea87d6,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,18,11.2223103400683
+b6f5e0277c415ea8,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,17,10.60954284548668
+bf12c10bc409b3d7,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,17,7.384320899326677
+c05261a67ce2b6fe,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,12,23.87637779205836
+c0e8f86fb35ebd1d,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,17,15.744528848709209
+c15b898ff27aa1f3,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,14,10.534082472240431
+de2bb2d26ca94d81,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,13,14.480793262776668
+e7fca92e9ee25a0d,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,13,8.51706214324592
+ec16150cb478cc0a,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,17,11.186808837687098
+f10b19097f0b5bf0,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,co2,14,5.266125217981483
+1293919515eb7b36,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,17,12.08427055229245
+5bf330a58e1115f6,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,17,12.084270552292462
+5f7faaaf512574f7,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,18,7.265799430795126
+636fa92719197f06,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,16,10.313720515074218
+6ad7cf5be07124af,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,16,10.313720515074282
+892ceb92752cef17,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,17,8.880278135104975
+a3cc86085ec2bfd2,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,16,10.313719738454008
+c1f45d162cbf7a5a,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,17,12.08426960498858
+c9c398ab585df340,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,17,12.084270552293187
+d27b31e7400358a6,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,16,10.313720513304249
+d4bc53d8ce9e2562,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,17,12.084270550983408
+d800df336def9922,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,16,10.31372051507138
+eb40a15f9f20a930,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,formaldehyde,18,10.23428117009577
+4b667f14a6cf5100,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,methanol,18,16.522307691293417
+eb81b9cffb4c2806,GLYCOLLATE_c,Glycolate,Organic/hydroxy-acid products,3,23,methanol,17,16.41594327696879
+01714f1311aa3a9c,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,19,7.089479266247312
+0b29c3031c45ae55,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,16,10.777430612027024
+138978751d645024,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,13,17.603084407504227
+14339f82dc96bc5b,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,20,8.367900882082818
+148b11194e81f2c1,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,15,9.95759758411478
+32d889574142b63b,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,14,31.273716574928063
+356ce4abb4092ada,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,20,10.181409146268738
+372fc7c5f72e17ec,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,18,1.7245904632635207
+38538d1a930e89ef,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,14,17.680128758830207
+3963815a9429b41d,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,18,2.145956001571035
+41e3b8486b091b6d,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,19,7.089477538704397
+4482c57ec60b8a55,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,20,10.461736007170796
+4a3e7c30b4239175,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,9,22.99388201716526
+57a8af5767f0723a,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,15,18.072042063683185
+5a1b523569416283,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,19,7.186572802690709
+5d5292fd3942747a,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,11,23.65615475425503
+67d8db3c4c8d17d5,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,16,15.78833843822705
+8a835783b2084bc5,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,16,9.988058140514047
+94cecfabf1ad63ea,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,17,10.841161761821832
+9c484cbc20e6ab2f,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,10,23.610005996728585
+a4a50c49c3e1fe6d,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,19,10.15756566822452
+adb3c4a358bd5e16,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,15,13.756880050640252
+c82be60c355a701e,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,13,17.12685059297795
+d059d0dfaadd682f,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,20,10.181409149741617
+e1627e9e0bcaec56,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,10,26.15494644625431
+e2f02fed115e3f57,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,18,2.1459565662829685
+ef9e0d470936242f,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,20,7.144730549010503
+f0d685a64601ad2a,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,15,33.99512159872444
+f349d3e979e777ee,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,co2,15,15.37655238029092
+68d5ab71ba999a4c,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,formaldehyde,10,8.8049990467957
+a0dacf1fb4e9dba5,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,formaldehyde,12,9.567686848306002
+cd193659f077cd65,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,formaldehyde,11,10.640105598513689
+d65b6b3c605e1e75,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,formaldehyde,11,13.454105504697068
+91c037facdc6cab8,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,formate,19,10.157565668552856
+e41159551d1c7f70,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,formate,20,9.944090519733374
+05a38bd201e802d3,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,methanol,14,12.441914561312828
+4069ff6eccfe4f4a,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,methanol,12,11.522121094668856
+5e3624f90df0dfcd,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,methanol,12,13.467297883020883
+70e0177fe1f73b07,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,methanol,13,13.473770600156085
+7771573e47e1ccbd,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,methanol,13,11.606508066561643
+b08adbd8cda64906,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,methanol,12,13.38600565442421
+f6a06eec63526f76,ETOH_c,Ethanol,Reduced/platform chemicals,4,14,methanol,15,11.685256146463146
+1071921bd0fff526,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,co2,20,16.13129337704246
+1092afbf8a4315b8,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,co2,18,20.797428961404727
+1fc93157d844631f,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,co2,20,14.187463908216944
+5c123bc4d572d7cf,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,co2,14,27.133693513434068
+7107f1facce59531,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,co2,20,7.498058504758838
+78a3a8d844512130,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,co2,17,17.82412502622465
+8eaedf046d3be1b8,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,co2,18,17.869490159882066
+9cf37c5c650f90d5,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,co2,20,24.366476794665434
+be013d08fa4d5ad1,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,co2,20,15.7369743290494
+ce23d215e384c389,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,co2,13,24.15503153233369
+d183b90a2b4a28e3,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,co2,17,17.070254489497746
+04d91c116f6b3ddd,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,formaldehyde,15,13.749886140326444
+061f8f548cb97e87,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,formaldehyde,14,9.750481625960129
+405664586e44aa7f,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,formaldehyde,14,9.03630806454059
+fcef7341e31eb823,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,formaldehyde,15,10.906292164067247
+1431bee6620906b7,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,methanol,18,11.790453134790983
+1c5f30b852238ae4,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,methanol,17,13.922059612661004
+84c746e5f516b976,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,methanol,16,13.935010074062406
+98366d3426b9e4fc,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,methanol,17,11.710631685976034
+cdb22b6b83f89b98,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,methanol,16,11.627774527372074
+f573cb21eeca3a5a,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,methanol,17,11.710631681230437
+fc6f3f04b185f1c9,BUTANOL_c,1-Butanol,Reduced/platform chemicals,4,15,methanol,16,13.935010068824448
+0490757170ef1210,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,18,10.6805876893174
+0b2d133569f29296,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,16,15.78833843839394
+0d46bffe09ee1221,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,11,19.999251195322227
+105c199944ec018d,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,14,17.654377897568395
+172d0c7737a38e63,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,20,6.752719628216222
+229bfb4dd033e3c0,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,9,20.00346324157544
+22ecebe6a503188c,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,20,6.752720975315113
+2927f16ce7fc3202,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,15,14.487374326629746
+4c2f3156cd32d80e,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,19,9.675111931210852
+4f50f169633af5e8,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,20,7.144730545907114
+5dd7bbb3a5babab7,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,16,18.171099635584667
+62d5bc7c1b8df7c5,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,20,10.714677330152565
+64a9e8474c47ff4d,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,15,9.957597583514254
+6c1e79d99ac7fcc7,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,10,19.912664893591376
+74903bb44c82b7ed,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,20,10.181409149150989
+76e2e80a83ab31ec,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,19,7.089477521518768
+7fbdcbd6d82c95fd,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,19,10.15756566753052
+88194cd39085aefc,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,15,27.26782736404732
+8c811d587845ab24,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,14,26.459032982113232
+9b03ccb1ebe1b119,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,14,14.384173585144072
+9ec28c07a864ab8e,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,13,19.87076711451056
+a642d2025bcf1021,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,16,6.644423671350993
+ad4fbac2ccf1e779,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,19,13.274416412438027
+ae7657abb5554528,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,10,20.73236128552478
+af083b302f9f204b,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,13,17.60308441679804
+bb9e2208816f0fae,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,19,6.650957432293772
+bc6d10b26056a1a3,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,19,7.089479293455903
+c1f65eceaa5a086e,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,17,6.929809773931333
+c934aabc2d46bdc9,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,18,9.643929314131876
+c97b09deeb024604,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,15,13.306373753083536
+cff09918b13321c6,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,18,3.290953565436851
+d1a17cfc38c75ad1,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,16,9.988058133850693
+d9c73afb5805f2c6,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,13,16.879228760610413
+ea2a8d5821b9036e,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,co2,20,10.181409148717806
+72eea3d1ef5b7dc9,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,formaldehyde,12,8.866754663562663
+b7f776034fef2f34,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,formaldehyde,12,9.56768685047517
+ecf5fc89fa7c0c9e,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,formaldehyde,13,13.564039755278204
+efe0e87e79736c3e,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,formaldehyde,13,10.71079416621727
+a67030b5237e815e,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,formate,19,10.157565667608589
+3b39c05502cc4510,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,methanol,13,10.192037641655196
+46b06880aae4047f,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,methanol,14,10.27595864006462
+59248f81cc407939,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,methanol,13,10.192037646788071
+75d43a179e9a6126,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,methanol,12,13.56403974642885
+956358b3e213caa3,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,methanol,19,4.62610013926753
+bf9f23e8d02d763b,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,methanol,13,13.565238756045456
+e4647347bfc3feb9,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,methanol,12,10.104719293400978
+ea2ce09ba07cd321,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,methanol,18,4.442893493183481
+fd12ee1e820f7da6,ACETOIN_c,Acetoin,Reduced/platform chemicals,4,19,methanol,12,13.564039753407332
+0265932d172601c3,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,13,11.409891689777572
+0e6760ee3dd6593e,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,19,5.782712229738453
+1c50459fcd946d41,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,20,5.937242954602737
+1f7f862df1774805,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,13,11.409891689514367
+2d1f261d7ef4854e,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,16,11.409891689534568
+4fa356639a6576f8,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,19,9.956066546571364
+5d376d2d8a775414,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,14,11.409891688107455
+6743fd142f519b3f,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,17,11.409891689789406
+75064d191f9368b5,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,18,11.319058222746342
+82eb3206e84fdf71,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,12,11.409891688225386
+8a8f1c8782c8293d,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,16,11.409891689540686
+a2ef4aa3e6932090,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,17,11.4098916897845
+abb84c3c92ab7f41,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,18,11.409891684189594
+ba64651277a736ff,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,18,11.409891687057252
+c181c45647938233,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,18,11.409891689601452
+cb814231fcfc13f1,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,18,9.927277627986788
+deb89a91b1cddbd5,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,16,11.40989168470129
+df0c31ee06bcbd48,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,18,11.409891688834463
+e19dec189ce2b37d,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,19,11.40989168600702
+f8150445a3b3bdbe,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,co2,19,11.40989168977223
+792c8020b1126611,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,formaldehyde,14,10.420053013609923
+84a2a666d68a2d5c,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,formaldehyde,14,11.40989168591693
+9555df2834984170,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,formaldehyde,13,8.89045553378884
+a99774810bd23068,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,formaldehyde,15,9.565781047807558
+090744a009ffb665,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,methanol,17,8.790026363965115
+149bc6371b7a554e,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,methanol,15,11.409891675658889
+2c503f8e95bc998d,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,methanol,15,8.632632705571666
+408685ac77977b25,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,methanol,16,11.409891689624326
+66759a2337b8dc0d,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,methanol,20,4.804181040214663
+89609271ec9d8cba,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,methanol,16,8.71273445833762
+db798d413454167a,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,methanol,15,11.409891689244132
+ee6073fc349a4e9c,CPD__45__12004_c,"meso-2,3-BDO",Reduced/platform chemicals,4,20,methanol,16,8.712734457240208
+3efc821c7c55503e,L__45__ALPHA__45__ALANINE_c,L-Alanine,Biosynthetic building blocks,5,18,co2,17,17.294083351043113
+414f5b3c3d86806c,L__45__ALPHA__45__ALANINE_c,L-Alanine,Biosynthetic building blocks,5,18,co2,16,21.11429451671637
+542d4ce9ab4544de,L__45__ALPHA__45__ALANINE_c,L-Alanine,Biosynthetic building blocks,5,18,co2,18,13.765669306258529
+91156ecc69ff6627,L__45__ALPHA__45__ALANINE_c,L-Alanine,Biosynthetic building blocks,5,18,co2,18,15.528679745686132
+02506a0ee72e35a3,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,16,21.167607604862155
+38567fa911d1121f,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,17,8.250085544318575
+41cd1a0741cc14b4,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,19,7.575832640128508
+5bb244ff83ca0955,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,15,20.8117719189802
+659afa7aa557d309,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,15,24.74068243562145
+6be4f2bc30c595ea,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,13,14.782004720058898
+6d7e56a8b597399c,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,16,8.722459684469953
+6fff4747feb584eb,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,10,34.55974659141287
+8a283fd12f08c0ea,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,16,14.765810559567804
+9927ca3f7deb7bf7,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,19,5.599967257267537
+bc983a64f2f203ed,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,20,8.490879925686897
+c04581cc9f6a088e,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,9,27.26423069263385
+c1b6b17c24be8f5d,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,14,15.47450147985625
+db6f15ac885e912c,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,15,13.355278926265338
+dc77720ad7382c03,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,20,10.435599945479227
+e4c58c448958c507,GLY_c,Glycine,Biosynthetic building blocks,5,21,co2,14,13.177639412765224
+190227d15b3e2d56,SER_c,L-Serine,Biosynthetic building blocks,5,22,co2,20,14.740374290855533
+5addf9b6e7d94a7e,SER_c,L-Serine,Biosynthetic building blocks,5,22,co2,18,18.06007909333513
+11a5412806bb25f0,L__45__ASPARTATE_c,L-Aspartate,Biosynthetic building blocks,5,24,co2,13,24.05051110600409
+282130ec226621cc,L__45__ASPARTATE_c,L-Aspartate,Biosynthetic building blocks,5,24,co2,18,12.501047437014144
+6b8097b046a9ee04,L__45__ASPARTATE_c,L-Aspartate,Biosynthetic building blocks,5,24,co2,20,18.532662859963835
+e71c21e9876c3ef1,L__45__ASPARTATE_c,L-Aspartate,Biosynthetic building blocks,5,24,co2,18,11.361432792782605
+fc6516d2a93e8c33,L__45__ASPARTATE_c,L-Aspartate,Biosynthetic building blocks,5,24,co2,20,9.238123490903346
+b274c59b64debec9,SHIKIMATE_c,Shikimate,Biosynthetic building blocks,5,25,co2,19,12.282274168657809
+964c3ec4d04512fe,SHIKIMATE_c,Shikimate,Biosynthetic building blocks,5,25,formaldehyde,14,16.985439298983245
+aa59a2272c5fdcc4,SHIKIMATE_c,Shikimate,Biosynthetic building blocks,5,25,formaldehyde,19,7.300347246965577
+1ef3a85a4fa5ab69,SHIKIMATE_c,Shikimate,Biosynthetic building blocks,5,25,methanol,16,17.315174781988542
+2be0a16f308305e9,SHIKIMATE_c,Shikimate,Biosynthetic building blocks,5,25,methanol,17,17.4682899423766
+6347db60debcb5b6,SHIKIMATE_c,Shikimate,Biosynthetic building blocks,5,25,methanol,16,17.315174793622745
+6d06e91461cabe4a,SHIKIMATE_c,Shikimate,Biosynthetic building blocks,5,25,methanol,18,17.601319948556775
+6e3efc54f1a2576b,SHIKIMATE_c,Shikimate,Biosynthetic building blocks,5,25,methanol,17,17.468289949044188
+6eb03543a697dc9a,SHIKIMATE_c,Shikimate,Biosynthetic building blocks,5,25,methanol,17,17.468289936714896
+dfe37839cd453ff7,SHIKIMATE_c,Shikimate,Biosynthetic building blocks,5,25,methanol,16,17.315174774725378

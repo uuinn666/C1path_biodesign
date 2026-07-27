@@ -1,0 +1,33 @@
+# 2026-07-27
+#
+# 1. code/
+#    - 来源：Result_image中图2–图5的已验证绘图代码。
+#    - 用途：从supplementary_materials读取数据并复现results中的正式图。
+#    - 输入：supplementary_materials/figure2–figure5。
+#    - 输出：results/figure2–figure5及运行时logs、validation。
+#    - 是否为中间文件：否。
+#    - 是否可以安全删除：否。
+#
+# 2. supplementary_materials/
+#    - 来源：Result_image中图2–图4的结构化源数据及图5六个网页截图。
+#    - 用途：公开图件的数据依据和可复现输入。
+#    - 是否为中间文件：否，正式补充材料。
+#    - 是否可以安全删除：否。
+#
+# 3. results/
+#    - 来源：Result_image中的图1–图5正式PNG/PDF。
+#    - 用途：论文结果展示和复现基准。
+#    - 是否为中间文件：否，正式结果。
+#    - 是否可以安全删除：否。
+#
+# 4. README.md
+#    - 来源：本次GitHub公开仓库整理。
+#    - 用途：说明目录、环境、复现命令和许可状态。
+#    - 是否为中间文件：否。
+#    - 是否可以安全删除：否。
+#
+# 5. requirements.txt
+#    - 来源：rxnmapper环境中完成重绘验证时的实际版本。
+#    - 用途：固定Figure 2–5绘图依赖。
+#    - 是否为中间文件：否。
+#    - 是否可以安全删除：否。
