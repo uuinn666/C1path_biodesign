@@ -9,11 +9,8 @@ C1path_biodesign/
 ├── code/                       # 图2–图5绘图代码
 ├── supplementary_materials/    # 结构化源数据及图5网页截图
 ├── results/                    # 图1–图5正式PNG/PDF结果
-├── requirements.txt            # 已验证的Python依赖版本
-└── 笔记.txt                    # 文件来源、用途与删除说明
+└── requirements.txt            # 已验证的Python依赖版本
 ```
-
-图1为静态研究流程图，目前没有可精确重建其图层结构的绘图脚本。图2–图5均可由仓库内代码和补充材料重新生成。
 
 ## 环境
 
@@ -22,8 +19,6 @@ C1path_biodesign/
 ```bash
 python -m pip install -r requirements.txt
 ```
-
-图5标题使用`Droid Sans Bold`字体。运行图5代码的系统需要安装Droid Sans字体，以保证像素级复现。
 
 ## 小样本绘图测试
 
