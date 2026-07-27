@@ -46,7 +46,3 @@ Final outputs are written to the corresponding `results/figure*` directories, an
 - `supplementary_materials/figure3`: pathway-step distributions, reaction frequencies, reaction mappings, group sample sizes, and the source-data validation report.
 - `supplementary_materials/figure4`: substrate–product reachability, product-class coverage, and pathway distribution data.
 - `supplementary_materials/figure5/source_panels`: the six web screenshots used to assemble Figure 5.
-
-## License
-
-No open-source license is currently declared for this repository. Public visibility does not automatically grant permission to copy, modify, or redistribute its contents.
