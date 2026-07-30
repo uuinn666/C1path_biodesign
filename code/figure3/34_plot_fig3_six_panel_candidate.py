@@ -1,10 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
-# 修改时间：2026-07-27
-# 原始实现：验证图默认写入原Figure 3目录。
-# 存在问题：发布仓库采用代码、补充材料和结果分层结构。
-# 修改内容：从统一补充材料目录读取数据，并将候选验证图写入validation目录。
+"""Plot the six-panel assimilation-reaction layout with A/B, C/D, and E/F representing C2, C3, and C4 products."""
 
 from __future__ import annotations
 
@@ -72,8 +67,9 @@ def build_row_layout(mapping: pd.DataFrame) -> tuple[pd.DataFrame, dict[str, dic
     rows = []
     blocks: dict[str, dict[str, float]] = {}
     cursor = 0.0
+    sort_column = "display_rank" if "display_rank" in mapping.columns else "candidate_number"
     for block_index, substrate in enumerate(SUBSTRATES):
-        group = mapping[mapping["substrate"] == substrate].sort_values("candidate_number")
+        group = mapping[mapping["substrate"] == substrate].sort_values(sort_column)
         first = cursor
         header = first - 0.82
         for _, reaction in group.iterrows():
@@ -110,7 +106,7 @@ def add_block_guides(
             axis.text(
                 0.01, block["header"], SUBSTRATE_LABELS[substrate],
                 transform=axis.get_yaxis_transform(), ha="left", va="center",
-                fontsize=6.5, fontweight="bold", color="#30343B",
+                fontsize=7.0, fontweight="bold", color="#30343B",
             )
         if sample_sizes is not None and carbon_class is not None:
             row = sample_sizes[
@@ -121,7 +117,7 @@ def add_block_guides(
             axis.text(
                 0.98, block["header"], f"n={n}",
                 transform=axis.get_yaxis_transform(), ha="right", va="center",
-                fontsize=5.5, color=STYLE.NEUTRAL,
+                fontsize=6.2, color=STYLE.NEUTRAL,
             )
 
 
@@ -156,7 +152,7 @@ def draw_step_box(
         medianprops={"color": "white", "linewidth": 0.85},
         meanprops={
             "marker": "*", "markerfacecolor": "#20252A",
-            "markeredgecolor": "#20252A", "markersize": 3.0,
+            "markeredgecolor": "#20252A", "markersize": 2.3,
         },
         whiskerprops={"color": STYLE.NEUTRAL, "linewidth": 0.50},
         capprops={"color": STYLE.NEUTRAL, "linewidth": 0.50},
@@ -170,7 +166,7 @@ def style_common_axis(axis: plt.Axes, rows: pd.DataFrame, y_max: float) -> None:
     axis.set_axisbelow(True)
     axis.spines["top"].set_visible(False)
     axis.spines["right"].set_visible(False)
-    axis.tick_params(axis="x", labelsize=6.5)
+    axis.tick_params(axis="x", labelsize=7.0)
 
 
 def draw_pair(

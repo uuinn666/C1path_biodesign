@@ -1,10 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
-# 修改时间：2026-07-27
-# 原始实现：输入、代码和结果位于同一Figure 3目录。
-# 存在问题：三层发布目录会使原默认路径失效。
-# 修改内容：统一使用仓库根目录下的supplementary_materials、results和logs。
+"""Plot the four-substrate assimilation-reaction figure using the analytical logic of reference Figures 2 and 3."""
 
 from __future__ import annotations
 

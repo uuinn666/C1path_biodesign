@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 """Forward the Figure 3 entry point to the approved metric-block implementation."""
 

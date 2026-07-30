@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 from __future__ import annotations
 
@@ -28,6 +26,11 @@ REDS = ["#FEE0D2", "#FCBBA1", "#FC9272", "#FB6A4A", "#EF3B2C", "#CB181D", "#A50F
 NEUTRAL = "#5B616B"
 LIGHT_NEUTRAL = "#D9DEE7"
 GRID = "#E5EAF1"
+PANEL_LABEL_X = -0.12
+PANEL_TITLE_X = -0.075
+PANEL_HEADER_Y = 1.08
+PANEL_LABEL_SIZE = 10.6
+PANEL_TITLE_SIZE = 8.8
 CATEGORY_COLORS = {
     "Central carbon precursors": "#08306B",
     "Sugar-phosphate precursors": "#4292C6",
@@ -50,15 +53,15 @@ def set_publication_style() -> None:
     mpl.rcParams.update(
         {
             "font.family": "DejaVu Sans",
-            "font.size": 8.5,
-            "axes.titlesize": 10,
-            "axes.labelsize": 9,
-            "axes.linewidth": 0.8,
-            "xtick.labelsize": 8,
-            "ytick.labelsize": 8,
-            "xtick.major.width": 0.7,
-            "ytick.major.width": 0.7,
-            "legend.fontsize": 7.5,
+            "font.size": 8.8,
+            "axes.titlesize": 9.6,
+            "axes.labelsize": 8.8,
+            "axes.linewidth": 0.85,
+            "xtick.labelsize": 7.8,
+            "ytick.labelsize": 7.8,
+            "xtick.major.width": 0.75,
+            "ytick.major.width": 0.75,
+            "legend.fontsize": 7.4,
             "figure.dpi": 150,
             "savefig.dpi": 600,
             "pdf.fonttype": 42,
@@ -76,8 +79,15 @@ def clean_axis(axis: plt.Axes, grid_axis: str = "y") -> None:
 
 
 def panel_label(axis: plt.Axes, label: str, title: str) -> None:
-    axis.text(-0.12, 1.08, label, transform=axis.transAxes, fontsize=11, fontweight="bold", va="top")
-    axis.set_title(title, loc="left", fontweight="bold", pad=8)
+    axis.text(
+        PANEL_LABEL_X, PANEL_HEADER_Y, label,
+        transform=axis.transAxes, fontsize=PANEL_LABEL_SIZE, fontweight="bold", va="top",
+    )
+    axis.text(
+        PANEL_TITLE_X, PANEL_HEADER_Y, title,
+        transform=axis.transAxes, fontsize=PANEL_TITLE_SIZE,
+        fontweight="bold", va="top",
+    )
 
 
 def deterministic_sample(values: np.ndarray, maximum: int) -> np.ndarray:
